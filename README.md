@@ -3,8 +3,6 @@
 
 Amazon Prime Video is an American subscription video on-demand over-the-top streaming and rental service of Amazon offered as a standalone service or as part of Amazon's Prime subscription. 
 
-A Collaborative project built by a team of 3 executed in 7 days.
-
 
 ![Logo](https://m.media-amazon.com/images/G/01/primevideo/seo//primevideo-seo-logo._CB1544649803_.png)
 
@@ -108,12 +106,6 @@ download the .zip file.  Extract the contents of the zip file, then open your te
 * To play trailer react-youtube npm package used 
     https://www.npmjs.com/package/react-youtube 
 
-
-## Contributors  😇
-
-- 👤 [Biswaranjan](https://www.github.com/icyflame21) (Team Lead)
-- 👤 [Rajan Kumar](https://www.github.com/Rajan1397)
-- 👤 [Abhijeet Sinha](https://www.github.com/Abhijeetsinha471)
 
 
 
